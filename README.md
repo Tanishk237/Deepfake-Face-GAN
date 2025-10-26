@@ -24,8 +24,9 @@ This project implements a **DCGAN** that learns to synthesize human faces by tra
 > Example generated faces after **Epoch 50**  
 > *(Generated and upscaled using Lanczos4 interpolation)*  
 
-![Sample Output 1](https://raw.githubusercontent.com/Tanishk237/Deepfake-Face-GAN/main/Tests/Test1.jpeg)
-![Sample Output 2](https://raw.githubusercontent.com/Tanishk237/Deepfake-Face-GAN/main/Tests/Test2.jpeg)
+![Sample Output 1](https://github.com/Tanishk237/Deepfake-Face-GAN/blob/main/Tests/Test1.jpeg)
+
+![Sample Output 2](https://github.com/Tanishk237/Deepfake-Face-GAN/blob/main/Tests/Test2.jpeg)
 
 
 ---
